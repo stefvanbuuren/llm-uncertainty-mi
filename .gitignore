@@ -1,0 +1,10 @@
+.DS_Store
+*.pdf
+!figure_*.pdf
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+cache_draws/
+cache_draws_parallel/
